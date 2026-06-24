@@ -1,10 +1,10 @@
-# 👁️ Facial Recognition and Behavior Analysis System
+# Facial Recognition and Behavior Analysis System
 
 This project is an **AI-powered monitoring system** designed to recognize individuals and analyze worker behavior in real time using computer vision. It leverages facial recognition and behavioral analytics to identify inattentive or improper actions, improving workplace efficiency and safety.
 
 ---
 
-## 🚀 Features
+## Features
 - **Real-time Face Detection** using OpenCV (Haar Cascade classifier)
 - **Facial Recognition** with confidence level indicators
 - **Behavioral Analysis** to detect actions such as:
@@ -19,9 +19,9 @@ This project is an **AI-powered monitoring system** designed to recognize indivi
 
 ---
 
-## 🧩 System Architecture
+## System Architecture
 
-## ⚙️ Tech Stack
+## Tech Stack
 | Component | Technology |
 |------------|-------------|
 | Programming Language | Python |
@@ -34,7 +34,7 @@ This project is an **AI-powered monitoring system** designed to recognize indivi
 
 ---
 
-## 🧠 How It Works
+## How It Works
 1. The camera captures the video stream.
 2. OpenCV processes frames for **face detection and recognition**.
 3. Behavioral patterns are analyzed (e.g., sitting, standing, throwing motion).
@@ -44,7 +44,7 @@ This project is an **AI-powered monitoring system** designed to recognize indivi
 
 ---
 
-## 🧩 Installation and Setup
+## Installation and Setup
 
 1. **Clone the repository**
    ```bash
